@@ -1,0 +1,33 @@
+p {
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: white;
+  font-size:50px;
+}
+
+h1 {
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: white;
+  color: rgb(128,0,0);
+  font-size:100px;
+  text-indent:50px;
+  font-family: 'Orbitron', sans-serif; 
+}
+
+h2 {
+  margin: 0px 300px 0px 5px;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: white;
+  font-size:80px;
+  text-indent:40px;
+  font-family: 'Orbitron', sans-serif; 
+}
+
+h3 {
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+  font-size:20px;
+  text-indent:25px;
+  font-family: 'Orbitron', sans-serif; 
+}
